@@ -1,0 +1,32 @@
+head {
+
+}
+body {
+
+}
+footer {
+
+}
+.container {
+     border: 3px dashed red;
+     display: flex;
+     flex-wrap: wrap;
+     width: 1415px;
+     height: 500px;
+     padding: 10px;
+}
+.top {
+ height: 200px;
+ width: 1400px;
+ border: 3px dashed red;
+}
+.left{
+    height: 200px;
+    width: 700px;
+    border: 3px dashed red;
+}
+.right{
+    height: 200px;
+    width: 700px;
+    border: 3px dashed red;
+}
